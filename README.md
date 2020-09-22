@@ -1,4 +1,16 @@
-### Hi there 👋
+<h2> Hi! I'm Christian 👋 </h2>
+
+<p><em>I'm currently a full-stack development student at <a href="https://github.com/betrybe"> Trybe </a>
+
+#### I'm already able to code with
+<img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" />
+
+### This are my stats here:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cduessel)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cduessel)](https://github.com/anuraghazra/github-readme-stats)
+
+#### And you can also find me at
+<a href="https://www.linkedin.com/in/cduessel/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
 
 <!--
 **cduessel/cduessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
