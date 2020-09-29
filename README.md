@@ -2,10 +2,10 @@
 
 <p><em>I'm currently a full-stack development student at <a href="https://github.com/betrybe"> Trybe </a>
 
-#### I'm already able to code with
+#### I'm able to code with
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" />
 
-### This are my stats here:
+### These are my stats here:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cduessel)](https://github.com/anuraghazra/github-readme-stats)
 
