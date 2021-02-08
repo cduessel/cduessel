@@ -13,6 +13,8 @@
 
 #### And you can also find me at
 <a href="https://www.linkedin.com/in/cduessel/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn" /> <a/>
+  
+  or simply at 📫 duessel@gmail.com
 
 <!--
 **cduessel/cduessel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
