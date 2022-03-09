@@ -1,6 +1,6 @@
 <h2> Hi! I'm Christian 👋 </h2>
 
-<p><em><a href="https://github.com/betrybe"> Trybe alumni currently working @ Thoughtworks</a>
+<p> Trybe alumni currently working @ Thoughtworks</p>
 
 #### I'm able to code with
 <img src="https://img.shields.io/badge/-HTML-orange?logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS-informational?logo=CSS3" /> <img src="https://img.shields.io/badge/-Javascript-yellow?logo=Javascript" /> <img src="https://img.shields.io/badge/-React-blue?logo=React" /> <img src="https://img.shields.io/badge/-Redux-blueviolet?logo=Redux" /> <img src="http://img.shields.io/badge/-MySQL-white?logo=mysql" /> <img src="http://img.shields.io/badge/-MongoDB-grey?logo=mongodb" /> <img src="http://img.shields.io/badge/-Node.Js-green?logo=node.js" />
